@@ -4,4 +4,4 @@ New versions of the storyline will be slower, more linear & more coherent.
 
 To get the feeling as quickly as possible, read the chapter named [Warheads] (http://blackswanfive.blogspot.hu/2015/08/warheads.html) :)
 
-Current storyline: [Master Branch] (https://github.com/danmarton/blackswanfive)
+Main storyline: [Master Branch] (https://github.com/danmarton/blackswanfive)
