@@ -1,5 +1,3 @@
-This is the master branch of my novel: the most current version is situated here.
+This is my first batch of demo chapters where I tried my wings & the feasibility of the project.
 
-Versions diverging from the main storyline will be on other branches!
-
-They may merge into or trade places with the master branch.
+New versions of the storyline will be slower, more linear & more coherent.
