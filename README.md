@@ -1,6 +1,6 @@
-This is the master branch where the current version of the main storyline is situated.
+This is the branch where the current version of the main storyline is situated.
 
-Divergent storylines will be on other branches!
+Diverging storylines will be on other branches!
 
 They may merge into or trade places with the master branch.
 
